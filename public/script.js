@@ -209,6 +209,7 @@ const mq_data = {
   "Freedos's Thoughts": 141700000,
   "Chaos in the Valley": 293700000,
   "Challenge the Crimson Dragon!": 300900000,
+  "Into the Icy Unknown": 308100000,
 };
 
 const splitMqInfo = function () {
